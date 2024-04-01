@@ -4,10 +4,10 @@ Documenting the cohort notes, code and tasks.
 
 ## Week1
 
-JS basics
-Callbacks, Promises, & Async-Await
+- JS basics
+- Callbacks, Promises, & Async-Await
 
 ## Week2
 
-Bash and Terminal
-ExpressJS
+- Bash and Terminal
+- ExpressJS
